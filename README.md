@@ -28,5 +28,4 @@ Deployed a highly available web application on Microsoft Azure using three Debia
 Visit the web application:  
 48.217.129.41 (Debian-lb-pip)
 
-## Screenshots
-(You can add screenshots later if you want!)
+
