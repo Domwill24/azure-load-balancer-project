@@ -27,24 +27,24 @@ Deployed a highly available web application on Microsoft Azure using three Debia
 ## Live Demo
 Visit the web application:  
 48.217.129.41 (Debian-lb-pip)
+
 ## Screenshots
 
- Azure Load Balancer Overview
+### Azure Load Balancer Overview
 ![Load Balancer Overview](Screenshot 2025-04-07 7.28.58 PM.png)
 
- Backend Pool with 3 VMs
+### Backend Pool with 3 VMs
 ![Backend Pool](Screenshot 2025-04-07 7.33.51 PM.png)
 
- VM Public IP - Nginx Welcome Page (VM 1)
+### VM Public IP - Nginx Welcome Page (VM 1)
 ![VM 1 Nginx](Screenshot 2025-04-07 7.31.11 PM.png)
 
-VM Public IP - Nginx Welcome Page (VM 2)
+### VM Public IP - Nginx Welcome Page (VM 2)
 ![VM 2 Nginx](Screenshot 2025-04-07 7.31.17 PM.png)
 
-VM Public IP - Nginx Welcome Page (VM 3)
-![VM 3 Nginx](Screenshot 2025-04-07 7.31.17 PM.png)
+### VM Public IP - Nginx Welcome Page (VM 3)
+![VM 3 Nginx](Screenshot 2025-04-07 7.31.25 PM.png)
 
-Load Balancer Public IP - Nginx Welcome Page
+### Load Balancer Public IP - Nginx Welcome Page
 ![Load Balancer Nginx](Screenshot 2025-04-07 7.33.33 PM.png)
-
 
